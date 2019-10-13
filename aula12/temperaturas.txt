@@ -1,0 +1,6 @@
+5
+1 33 Porto
+56 26 Vila Real
+1303 33 Aveiro
+24 -13 Moscovo
+119 35 Los Angeles

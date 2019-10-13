@@ -1,10 +1,10 @@
 package aula1;
 import java.util.Scanner;
 public class CelsiusToFarhrenheit {
-	
+
 	static Scanner kb = new Scanner(System.in);
 	public static void main(String[] args) {
-		
+
 		double c, f;
 		System.out.print("Celsius: ");
 		c = kb.nextDouble();
